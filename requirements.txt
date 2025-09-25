@@ -1,3 +1,4 @@
-Flet
 
+Flet
 ft.app(target=main, view=ft.AppView.WEB_BROWSER)
+
